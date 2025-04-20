@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.nav-item {
+  list-style-type: none;
+  display: flex;
+}
+/*# sourceMappingURL=ReactNR.2dc26640.css.map */
