@@ -1,1 +1,0 @@
-{"mappings":"AAAA;;;;AAIA;;;;;AAKA","sources":["script.css"],"sourcesContent":[".header{\n    display: flex;\n}\n\n.logo{\n    width: 100px;\n    height: 100px;\n}\n\n.nav-item{\n    display: flex;\n    list-style-type: none;\n}"],"names":[],"version":3,"file":"ReactNR.2dc26640.css.map","sourceRoot":"/__parcel_source_root/"}
